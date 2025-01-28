@@ -2,8 +2,8 @@
     position: relative;
     width: 1966px;
     height: 309px;
-    top: 320.1vh;
-    background-color: pink;
+    top: 820em;
+    background-color: white;
   }
   
   .frame .overlap-group {
@@ -457,5 +457,5 @@
 }
 
 .frame{
-  height: 0px;
+  height: 286px;
 }
